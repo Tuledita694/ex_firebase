@@ -7,6 +7,8 @@ import '../components/textfield_auth.dart';
 class PaginaRegistre extends StatelessWidget {
   const PaginaRegistre({super.key});
 
+  void FerRegistre() {}
+
   @override
   Widget build(BuildContext context) {
     final TextEditingController tecEmail = TextEditingController();
@@ -106,8 +108,16 @@ class PaginaRegistre extends StatelessWidget {
               ),
               SizedBox(height: 10),
               //botó registrar
-
-              BotoAuth(),
+              BotoAuth(
+                text: 'Registre',
+                onTap: FerRegistre,
+              ),
+              BotoAuth(
+                text: 'Logout',
+                onTap: () {
+                  
+                },
+              ),
             ]),
           ),
         ),
