@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "530732581459",
+    "project_id": "flutterfirebase-chao",
+    "storage_bucket": "flutterfirebase-chao.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530732581459:android:7d15525a0e1d0399e93ca6",
+        "android_client_info": {
+          "package_name": "com.example.ex_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAqxXUSieVfPLaEjtUC4FE0BcxAorV-bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

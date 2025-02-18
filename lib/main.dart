@@ -16,3 +16,41 @@ class MainApp extends StatelessWidget {
     );
   }
 }
+
+/*-----------------------------------------
+
+1) Tenir Node.js instalat
+
+2) Instal·lar Firebase y anar a la consola de Firebase
+   -Tenir en compte amb quin conta de google
+ 
+3) Crear un nou projecte Firebase
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
